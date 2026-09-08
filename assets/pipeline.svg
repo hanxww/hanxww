@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient></defs>
+<rect width="1400" height="260" rx="28" fill="#090D13"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,monospace" text-anchor="middle">
+  <text x="700" y="48" fill="#8B949E" font-size="14" font-weight="800" letter-spacing="3">HOW I BUILD</text>
+  <g transform="translate(80 98)">
+    <circle cx="70" cy="42" r="42" fill="#0D1117" stroke="#58A6FF" stroke-opacity=".35"/><text x="70" y="48" fill="#F0F6FC" font-size="16" font-weight="900">IDEA</text>
+    <path d="M126 42H230" stroke="#58A6FF" stroke-width="3"/><path d="M224 36l12 6-12 6" fill="none" stroke="#58A6FF" stroke-width="3"/>
+    <circle cx="300" cy="42" r="42" fill="#0D1117" stroke="#6D8DFF" stroke-opacity=".35"/><text x="300" y="48" fill="#F0F6FC" font-size="16" font-weight="900">BUILD</text>
+    <path d="M356 42H460" stroke="#7B78F7" stroke-width="3"/><path d="M454 36l12 6-12 6" fill="none" stroke="#7B78F7" stroke-width="3"/>
+    <circle cx="530" cy="42" r="42" fill="#0D1117" stroke="#A371F7" stroke-opacity=".35"/><text x="530" y="48" fill="#F0F6FC" font-size="16" font-weight="900">BREAK</text>
+    <path d="M586 42H690" stroke="#9D70EF" stroke-width="3"/><path d="M684 36l12 6-12 6" fill="none" stroke="#9D70EF" stroke-width="3"/>
+    <circle cx="760" cy="42" r="42" fill="#0D1117" stroke="#7C9DEB" stroke-opacity=".35"/><text x="760" y="48" fill="#F0F6FC" font-size="15" font-weight="900">LEARN</text>
+    <path d="M816 42H920" stroke="#61AFD6" stroke-width="3"/><path d="M914 36l12 6-12 6" fill="none" stroke="#61AFD6" stroke-width="3"/>
+    <circle cx="990" cy="42" r="42" fill="#0D1117" stroke="#2DD4BF" stroke-opacity=".35"/><text x="990" y="48" fill="#F0F6FC" font-size="16" font-weight="900">SHIP</text>
+    <path d="M1046 42H1150" stroke="#2DD4BF" stroke-width="3"/><path d="M1144 36l12 6-12 6" fill="none" stroke="#2DD4BF" stroke-width="3"/>
+    <circle cx="1220" cy="42" r="42" fill="#0D1117" stroke="#3FB950" stroke-opacity=".35"/><text x="1220" y="48" fill="#F0F6FC" font-size="14" font-weight="900">REFINE</text>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1399" height="259" rx="27.5" fill="none" stroke="#fff" stroke-opacity=".08"/>
+</svg>
