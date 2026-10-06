@@ -1,0 +1,249 @@
+{
+  "navigation": {
+    "items": [
+      "HOME",
+      "WORK",
+      "ABOUT",
+      "STACK",
+      "LAB",
+      "CONTACT"
+    ],
+    "talk": "LET’S TALK",
+    "menu": "MENU",
+    "close": "CLOSE",
+    "language": "LANGUAGE",
+    "appearance": "APPEARANCE",
+    "dark": "NIGHT",
+    "light": "DAY",
+    "quick": "QUICK NAVIGATION",
+    "label": "Main navigation",
+    "menuDescription": "Navigation, language, appearance and Telegram contact.",
+    "home": "HANXW home",
+    "themeLight": "Switch to light theme",
+    "themeDark": "Switch to dark theme"
+  },
+  "hero": {
+    "label": "CREATIVE DEVELOPMENT / 2026",
+    "lines": [
+      "I BUILD",
+      "DIGITAL",
+      "EXPERIENCES."
+    ],
+    "description": "I turn ideas, code and motion into digital products people remember.",
+    "cta": "EXPLORE MY WORK",
+    "intro": "01 / INTRO",
+    "specialty": "ENGINEERING × DESIGN × MOTION",
+    "scroll": "SCROLL TO EXPLORE",
+    "scrollShort": "SCROLL",
+    "coordinate": "HX—001 / LIVING MATTER",
+    "caption": "CODE, GIVEN FORM.",
+    "orbit": "DRIVEN BY CURIOSITY",
+    "move": "MOVE"
+  },
+  "projects": {
+    "label": "02 / SELECTED WORK",
+    "meta": "EXPLORATIONS IN CODE & FORM",
+    "headline": [
+      "THINGS",
+      "I’VE BUILT."
+    ],
+    "intro": "From a thought to something you can feel. Interactive studies, made for this space.",
+    "open": "EXPLORE STUDY",
+    "view": "VIEW ↗",
+    "media": "REALTIME / MATERIAL EXPLORATION",
+    "alt": "HANXW CORE — a sculptural chrome sphere with a violet energy seam",
+    "order": "ORDER",
+    "chaos": "from chaos.",
+    "lightStudy": "A STUDY IN LIGHT",
+    "role": "ROLE",
+    "stack": "STACK",
+    "context": "CONTEXT",
+    "contextValue": "Original portfolio experiment",
+    "explore": "EXPLORE",
+    "live": "Open live experience",
+    "back": "BACK TO WORK",
+    "all": "ALL STUDIES",
+    "experiment": "EXPERIMENT",
+    "challenge": [
+      "THE",
+      "CHALLENGE."
+    ],
+    "solution": [
+      "FROM IDEA",
+      "TO EXPERIENCE."
+    ],
+    "built": [
+      "BUILT TO",
+      "BE EXPLORED."
+    ],
+    "disclosure": "This is a working visual study, not a client commission. It is part of the HANXW portfolio itself. The interaction adapts to smaller screens and respects reduced-motion preferences.",
+    "try": "TRY THE EXPERIENCE",
+    "next": "NEXT PROJECT",
+    "code": "THE SMALL DETAILS"
+  },
+  "about": {
+    "label": "03 / ABOUT",
+    "headline": [
+      "MORE THAN",
+      "JUST CODE."
+    ],
+    "body": "I’m Hanxw — a developer focused on building digital experiences where engineering, design and motion work together.",
+    "detail": "I care about the details you notice. And the ones you don’t. How a page feels, how a system holds together, and how an idea becomes something worth using.",
+    "tags": [
+      "DEVELOPER",
+      "CREATOR",
+      "BUILDER"
+    ],
+    "caption": "HX—002 / SAME CORE. NEW FORM.",
+    "philosophy": "A SIMPLE PHILOSOPHY",
+    "not": [
+      "I DON’T JUST",
+      "MAKE WEBSITES."
+    ],
+    "yes": [
+      "I BUILD",
+      "EXPERIENCES."
+    ]
+  },
+  "stack": {
+    "label": "04 / TECHNOLOGY",
+    "meta": "THE RIGHT TOOLS. THE RIGHT REASONS.",
+    "headline": "MY TOOLBOX.",
+    "categories": [
+      "LANGUAGE",
+      "INTERFACE",
+      "FRAMEWORK",
+      "RUNTIME",
+      "DATABASE",
+      "CREATIVE 3D"
+    ],
+    "descriptions": [
+      "Thoughtful types. Clear contracts. Fewer surprises.",
+      "Composable interfaces with state that stays predictable.",
+      "Routes, rendering and data, brought into one coherent product.",
+      "Services and APIs that connect the parts of a product.",
+      "Relational data, explicit schemas and dependable queries.",
+      "Geometry, materials and light for expressive browser experiences."
+    ],
+    "marquee": [
+      "BUILD",
+      "SHIP",
+      "LEARN",
+      "CREATE"
+    ]
+  },
+  "process": {
+    "label": "FROM FIRST QUESTION TO FINAL DETAIL",
+    "headline": [
+      "HOW",
+      "I BUILD."
+    ],
+    "titles": [
+      "DISCOVER",
+      "DESIGN",
+      "DEVELOP",
+      "SHIP"
+    ],
+    "descriptions": [
+      "Ask better questions. Understand the purpose, the people and the problem before opening the editor.",
+      "Find the visual language. Shape the flow, prototype the interactions and make every detail earn its place.",
+      "Build the system behind the feeling. Bring design and code together with performance and accessibility in mind.",
+      "Test the real experience. Refine the rough edges, release thoughtfully and keep learning."
+    ]
+  },
+  "lab": {
+    "label": "05 / HANXW LAB",
+    "meta": "NO BRIEF. JUST CURIOSITY.",
+    "intro": "Some ideas need to be played with. This is one of them.",
+    "experiment": "EXPERIMENT",
+    "live": "LIVE CANVAS",
+    "headline": [
+      "MAKE A LITTLE",
+      "disturbance."
+    ],
+    "pointer": "MOVE YOUR CURSOR THROUGH THE FIELD.",
+    "touch": "DRAG YOUR FINGER THROUGH THE FIELD.",
+    "modes": [
+      "FIELD",
+      "ORBIT",
+      "WAVE"
+    ],
+    "names": [
+      "PARTICLE FIELD",
+      "ORBITAL SYSTEM",
+      "CHROMATIC WAVE"
+    ],
+    "pause": "PAUSE",
+    "resume": "RESUME",
+    "energy": "ENERGY",
+    "reset": "RESET",
+    "arrangement": "Particle arrangement",
+    "canvas": "Interactive particle field. Move your pointer or finger to displace the points.",
+    "fullscreen": "IMMERSIVE MODE",
+    "exit": "EXIT",
+    "info": "INFO",
+    "concept": "A parametric point field responds to a local force. Change the arrangement and energy without restarting the experiment.",
+    "tech": "TECHNOLOGY / TypeScript · Canvas 2D"
+  },
+  "contact": {
+    "label": "06 / CONTACT",
+    "meta": "GOOD THINGS START WITH A CONVERSATION.",
+    "idea": "HAVE AN IDEA?",
+    "headline": [
+      "LET’S",
+      "BUILD",
+      "SOMETHING."
+    ],
+    "cta": [
+      "MESSAGE",
+      "ME"
+    ],
+    "telegram": "FIND ME ON TELEGRAM"
+  },
+  "footer": {
+    "role": "Creative Developer",
+    "signature": "BUILT WITH CODE + OBSESSION",
+    "top": "BACK TO TOP",
+    "sound": "SOUND",
+    "on": "ON",
+    "off": "OFF"
+  },
+  "errors": {
+    "label": "SIGNAL LOST / HANXW",
+    "headline": [
+      "LOOKS LIKE THIS",
+      "PAGE GOT LOST."
+    ],
+    "home": "RETURN HOME",
+    "failed": "Something interrupted this scene.",
+    "retry": "TRY AGAIN"
+  },
+  "accessibility": {
+    "skip": "Skip to work",
+    "loading": "Loading visual assets",
+    "close": "Close",
+    "themeChanged": "Appearance changed",
+    "langChanged": "Language changed to English"
+  },
+  "commands": {
+    "title": "HANXW / COMMAND CENTER",
+    "description": "Navigate and change your preferences. Use arrow keys and Enter.",
+    "placeholder": "Where do you want to go?",
+    "empty": "No matching commands.",
+    "work": "Go to Work",
+    "about": "Go to About",
+    "lab": "Open HANXW Lab",
+    "contact": "Contact on Telegram",
+    "home": "Back to Top",
+    "hint": "↑↓ NAVIGATE   ↵ OPEN   ESC CLOSE",
+    "terminal": "DEVELOPER MODE / UNLOCKED",
+    "terminalDescription": "The hidden side of HANXW.",
+    "welcome": "HANXW OS / type help to begin.",
+    "unknown": "Command not found. Try help.",
+    "workResult": "Explore the interactive studies in Work."
+  },
+  "metadata": {
+    "title": "Hanxw — Creative Developer",
+    "description": "Hanxw is a creative developer building modern web products, interactive experiences and ambitious digital ideas."
+  }
+}
