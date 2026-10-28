@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="260" viewBox="0 0 1600 260" role="img" aria-label="Keep building — HANXWW open source profile footer">
+<defs>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090D"/><stop offset=".52" stop-color="#10121A"/><stop offset="1" stop-color="#08090C"/></linearGradient>
+<linearGradient id="acid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5FFB9"/><stop offset=".4" stop-color="#CEFF66"/><stop offset="1" stop-color="#67E4C4"/></linearGradient>
+<linearGradient id="ultra" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5BE4FF"/><stop offset=".5" stop-color="#A991FF"/><stop offset="1" stop-color="#F276C1"/></linearGradient>
+<linearGradient id="split" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#CEFF66"/><stop offset=".55" stop-color="#A991FF"/><stop offset="1" stop-color="#73EAFF"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#CEFF66" stop-opacity=".62"/><stop offset="1" stop-color="#CEFF66" stop-opacity="0"/></linearGradient>
+<radialGradient id="glowPurple"><stop stop-color="#A991FF" stop-opacity=".26"/><stop offset="1" stop-color="#A991FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowGreen"><stop stop-color="#CEFF66" stop-opacity=".19"/><stop offset="1" stop-color="#CEFF66" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowCyan"><stop stop-color="#73EAFF" stop-opacity=".18"/><stop offset="1" stop-color="#73EAFF" stop-opacity="0"/></radialGradient>
+<pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8B92A0" opacity=".22"/></pattern>
+<pattern id="lineGrid" width="62" height="62" patternUnits="userSpaceOnUse"><path d="M62 0H0V62" fill="none" stroke="#CED4E7" stroke-opacity=".055" stroke-width="1"/></pattern>
+<filter id="softBlur" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="31"/></filter>
+<filter id="smallGlow" x="-90%" y="-90%" width="280%" height="280%"><feGaussianBlur stdDeviation="5"/></filter>
+<clipPath id="roundHero"><rect width="1600" height="710" rx="24"/></clipPath>
+</defs>
+<rect x="0" y="0" width="1600" height="260" rx="22" fill="url(#back)" stroke="none" stroke-width="1" opacity="1" />
+<rect x="0" y="0" width="1600" height="260" rx="24" fill="url(#lineGrid)" stroke="none" stroke-width="1" opacity="1" /><circle cx="810" cy="140" r="450" fill="url(#glowPurple)" stroke="none" stroke-width="1" opacity="1" /><line x1="65" y1="32" x2="1535" y2="32" stroke="#F7F7F4" stroke-width="1" opacity="0.25" /><text x="80" y="130" fill="#F7F7F4" font-size="86" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="-1" opacity="1" >KEEP BUILDING.</text><path d="M1437 134L1511 60M1456 60H1511V115" fill="none" stroke="#CEFF66" stroke-width="8" opacity="0.98" stroke-linecap="round" stroke-linejoin="round"/><rect x="80" y="150" width="530" height="3" rx="0" fill="url(#split)" stroke="none" stroke-width="1" opacity="1" /><text x="81" y="199" fill="#9298A7" font-size="19" font-family="Arial, Helvetica, sans-serif" font-weight="630" letter-spacing="0.2" opacity="1" >IF IT IS USEFUL, STAR IT. IF IT CAN BE BETTER, OPEN AN ISSUE.</text><text x="81" y="235" fill="#565C69" font-size="13" font-family="'DejaVu Sans Mono', Consolas, monospace" font-weight="700" letter-spacing="1.2" opacity="1" >© HANXWW  /  OPEN SOURCE  /  ALWAYS IN PROGRESS</text>
+</svg>
